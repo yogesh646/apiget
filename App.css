@@ -1,0 +1,21 @@
+.tablo{
+  background-color:rgb(2, 158, 179);
+  margin-left: 5px;
+  height: 1150px;
+  width: 4350px;
+  }
+  .kiss{
+    margin-left: 80px;
+    height: 30px;
+    width: 100px;
+    font-size: 14px;
+    background-color: rgb(5, 103, 116);
+    border-radius: 4px;
+  }
+  .kiss1{
+    text-align: center;
+    height: 30px;
+    font-size: 12px;
+    background-color: rgb(253, 255, 255);
+    border-radius: 2px;
+  }
